@@ -54,7 +54,7 @@ def print_repo(repo):
 
 # Github username
 username = "ebartalucci"
-# password = "Erotte.Github21"
+# password = "**********"
 
 # Pygithub object
 g = Github()
